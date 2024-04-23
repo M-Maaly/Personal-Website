@@ -556,6 +556,7 @@ header::after {
   font-weight: var(--font-weight-medium);
   font-size: var(--font-size-24);
   margin-top: 3.4rem;
+  cursor: pointer;
 }
 
 form:invalid::after {
